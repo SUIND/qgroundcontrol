@@ -92,3 +92,5 @@ docs/.vitepress/cache/
 docs/.vitepress/dist/
 
 CMakeUserPresets.json
+
+**/.gradle
